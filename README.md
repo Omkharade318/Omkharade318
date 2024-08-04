@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/om_kharade140" target="blank"><img src="https://img.shields.io/twitter/follow/om_kharade140?logo=twitter&style=for-the-badge" alt="om_kharade140" /></a> </p>
 
-- 🔭 I’m currently working on **KARMA (college mini project)**
+- 🔭 I’m currently working on **College App**
 
-- 🌱 I’m currently learning **JavaScript** and **DSA**
+- 🌱 I’m currently learning **Application Development**
 
-- 👯 I’m looking to collaborate on **Python or Java projects**
+- 👯 I’m looking to collaborate on **Android Apps**
 
-- 🤝 I’m looking for help with **Android Development**
+- 🤝 I’m looking for help with **Full Stack Application Development**
 
-- 💬 Ask me about **Python, Java, C, C++**
+- 💬 Ask me about **XML, Kotlin, Java, JetPack Compose, Firebase**
 
 - 📫 How to reach me **kharadeoms@gmail.com**
 
