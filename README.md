@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JetPack Compose**
 
-- 👯 I’m looking to collaborate on **Python or Java projects**
+- 👯 I’m looking to collaborate on **Android Applications**
 
 - 🤝 I’m looking for help with **Android Development**
 
