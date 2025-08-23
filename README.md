@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kharadeoms@gmail.com**
 
-- 📄 Know about my experiences [https://apricot-wenona-81.tiiny.site](https://apricot-wenona-81.tiiny.site)
+- 📄 Know about my experiences [Resume](https://kharade-om-resume.tiiny.site/)
 
 - ⚡ Fun fact **I became the Star Performer of the company during my internship**
 
