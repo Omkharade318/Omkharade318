@@ -3,13 +3,13 @@
 <h3 align="center">A Passionate programmer.</h3>
 <img align = "right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
-- 🔭 I’m currently working on [Project Bankai](https://github.com/Omkharade318/Project-Bankai/)
+- 🔭 I’m currently working on [Appetito](https://github.com/Omkharade318/Appetito-The_Food_Delivery_App)
 
-- 🌱 I’m currently learning **JetPack Compose**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Android Applications**
 
-- 🤝 I’m looking for help with **Android Development**
+- 🤝 I’m looking for help with **Flutter Development**
 
 - 💬 Ask me about **Android Development**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://apricot-wenona-81.tiiny.site](https://apricot-wenona-81.tiiny.site)
 
-- ⚡ Fun fact **I applied for Google's internship**
+- ⚡ Fun fact **I became the Star Performer of the company during my internship**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
