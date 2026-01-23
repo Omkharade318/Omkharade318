@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kharadeoms@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://kharade-om-resume.tiiny.site/)
+- 📄 Know about my experiences [Resume](https://om-kharade-resume.tiiny.site)
 
 - ⚡ Fun fact **I became the Star Performer of the company during my internship**
 
