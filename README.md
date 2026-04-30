@@ -159,11 +159,11 @@ When I'm not working on Android apps, I'm usually diving into competitive progra
 
 ## Recent GitHub Activity ✅
 <!-- ACTIVITY:START -->
+- [Omkharade318 pushed alumni_association](https://github.com/Omkharade318/alumni_association/compare/d358c8f165...f5a6686a54)
 - [Omkharade318 pushed Omkharade318](https://github.com/Omkharade318/Omkharade318/compare/b279de40d0...5398506ad8)
 - [Omkharade318 pushed Omkharade318](https://github.com/Omkharade318/Omkharade318/compare/8d5150d324...b279de40d0)
 - [Omkharade318 pushed Omkharade318](https://github.com/Omkharade318/Omkharade318/compare/4fa9b715aa...8d5150d324)
 - [Omkharade318 pushed Omkharade318](https://github.com/Omkharade318/Omkharade318/compare/a30942197e...6a9c4248ea)
-- [Omkharade318 pushed Omkharade318](https://github.com/Omkharade318/Omkharade318/compare/7f1548b038...a30942197e)
 <!-- ACTIVITY:END -->
 
 ## GitHub Profile Trophy 🏆
