@@ -24,7 +24,7 @@
 
 <p></p>
 <p align="justify">
-Welcome to my GitHub Page! I am a passionate programmer with experience as a web development intern at Aphinity Softech Pvt Limited. I love building things and am currently focusing heavily on mobile application development with Flutter and Jetpack Compose, including my recent work on the <a href="https://github.com/Omkharade318/alumni_association">Alumini Connect</a>. 
+Welcome to my GitHub Page! I am a passionate programmer with experience as a FLutter Developer at Fytrips Pvt Limited. I love building things and am currently focusing heavily on mobile application development with Flutter and Jetpack Compose, including my recent work on the <a href="https://github.com/Omkharade318/alumni_association">Alumini Connect</a>. 
 
 When I'm not working on Android apps, I'm usually diving into competitive programming with C++, organizing coding events for the Code Sprint and Level Up clubs (get ready for #LEVELUP2026!), or taking a break from the screen to play chess. I'm always looking to collaborate on exciting Android & Flutter applications and share what I learn along the way.
 </p>
