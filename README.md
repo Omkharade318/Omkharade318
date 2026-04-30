@@ -158,8 +158,8 @@ When I'm not working on Android apps, I'm usually diving into competitive progra
 </details>
 
 ## Recent GitHub Activity ✅
-<!-- ACTIVITY-LIST:START -->
-<!-- ACTIVITY-LIST:END -->
+<!-- ACTIVITY:START -->
+<!-- ACTIVITY:END -->
 
 ## GitHub Profile Trophy 🏆
 
