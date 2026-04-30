@@ -1,36 +1,170 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">💫About Me:</h1>
-<h3 align="center">A Passionate programmer.</h3>
-<img align = "right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Coding Intro" title="Coding Intro"/>
 
-- 🔭 I’m currently working on [Appetito](https://github.com/Omkharade318/Appetito-The_Food_Delivery_App)
+<div align="justify">
+<a href="mailto:kharadeoms@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/om-kharade">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codolio.com/profile/Schr0dinger">
+<img src="https://img.shields.io/badge/Codolio-212121.svg?style=for-the-badge&logo=codeforces&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.leetcode.com/Schr0d">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://om-kharade-resume.tiiny.site">
+<img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=Read-the-Docs&logoColor=white">
+</a>
+</div>
 
-- 🌱 I’m currently learning **Flutter**
+<p></p>
+<p align="justify">
+Welcome to my GitHub Page! I am a passionate programmer with experience as a web development intern at Aphinity Softech Pvt Limited. I love building things and am currently focusing heavily on mobile application development with Flutter and Jetpack Compose, including my recent work on the <a href="https://github.com/Omkharade318/alumni_association">Alumini Connect</a>. 
 
-- 👯 I’m looking to collaborate on **Android Applications**
-
-- 🤝 I’m looking for help with **Flutter Development**
-
-- 💬 Ask me about **Android Development**
-
-- 📫 How to reach me **kharadeoms@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://om-kharade-resume.tiiny.site)
-
-- ⚡ Fun fact **I became the Star Performer of the company during my internship**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/om-kharade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-kharade" height="30" width="40" /></a>
-<a href="https://instagram.com/om_k_063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om_k_063" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/schrodinger140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="schrodinger140" height="30" width="40" /></a>
+When I'm not working on Android apps, I'm usually diving into competitive programming with C++, organizing coding events for the Code Sprint and Level Up clubs (get ready for #LEVELUP2026!), or taking a break from the screen to play chess. I'm always looking to collaborate on exciting Android & Flutter applications and share what I learn along the way.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## My favorite tools and technologies ⚙️
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkharade318&show_icons=true&locale=en&layout=compact" alt="omkharade318" /></p>
+> Tools and technologies that I have worked with and am interested in
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkharade318&show_icons=true&locale=en" alt="omkharade318" /></p>
+<table>
+  <tr>
+   <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="48" height="48" alt="Android" />
+      <br>Android
+   </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+          <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+          <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST API" />
+      <br>REST API
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkharade318&" alt="omkharade318" /></p>
+## Github stats 📊
+
+<details open>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Om's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=omkharade318&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Om's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkharade318&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/></a>
+  <br/>
+</details>
+
+<details open>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
+[![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omkharade318&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+<details open>
+  <summary>GitHub Streak 🔥</summary>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkharade318&theme=default&hide_border=true" alt="omkharade318 streak" />
+</details>
+
+<details open>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=omkharade318&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
+
+<details open>
+  <summary>Fav Pins 📌</summary>
+  <br/>
+  <a href="https://github.com/Omkharade318/Appetito-The_Food_Delivery_App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omkharade318&repo=Appetito-The_Food_Delivery_App&theme=default" />
+</a>
+  <br/>
+</details>
+
+## Recent GitHub Activity ✅
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## GitHub Profile Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=omkharade318&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
