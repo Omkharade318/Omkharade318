@@ -158,9 +158,8 @@ When I'm not working on Android apps, I'm usually diving into competitive progra
 </details>
 
 ## Recent GitHub Activity ✅
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Omkharade318/alumni_association/issues/1) in [Omkharade318/alumni_association](https://github.com/Omkharade318/alumni_association)
-<!--END_SECTION:activity-->
+<!-- ACTIVITY-LIST:START -->
+<!-- ACTIVITY-LIST:END -->
 
 ## GitHub Profile Trophy 🏆
 
