@@ -2,8 +2,12 @@ name: Update GitHub Activity README
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # This runs the action every 12 hours
-  workflow_dispatch: # This lets you run it manually from the Actions tab
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+# This explicitly tells GitHub to allow this script to edit files
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,7 +15,7 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
