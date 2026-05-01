@@ -1,4 +1,4 @@
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Coding Intro" title="Coding Intro"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Intro" title="Coding Intro"/>
 
 <div align="justify">
 <a href="mailto:kharadeoms@gmail.com">
@@ -24,9 +24,9 @@
 
 <p></p>
 <p align="justify">
-Welcome to my GitHub Page! I am a passionate programmer with experience as a FLutter Developer at Fytrips Pvt Limited. I love building things and am currently focusing heavily on mobile application development with Flutter and Jetpack Compose, including my recent work on the <a href="https://github.com/Omkharade318/alumni_association">Alumini Connect</a>. 
+Welcome to my GitHub Page! I am a passionate programmer with experience as a Mobile application Developer at Fytrips Pvt Limited. I love building things and am currently focusing heavily on mobile application development with Flutter and Jetpack Compose, including my recent work on the <a href="https://github.com/Omkharade318/alumni_association">Alumini Connect</a>. 
 
-When I'm not working on Android apps, I'm usually diving into competitive programming with C++, organizing coding events for the Code Sprint and Level Up clubs (get ready for #LEVELUP2026!), or taking a break from the screen to play chess. I'm always looking to collaborate on exciting Android & Flutter applications and share what I learn along the way.
+When I'm not working on Android apps, I'm usually diving into competitive programming with C++, organizing coding events for the Code Sprint and Level Up clubs, or taking a break from the screen to play chess. I'm always looking to collaborate on exciting Android & Flutter applications and share what I learn along the way.
 </p>
 
 ## My favorite tools and technologies ⚙️
@@ -151,10 +151,11 @@ When I'm not working on Android apps, I'm usually diving into competitive progra
 <details open>
   <summary>Fav Pins 📌</summary>
   <br/>
-  <a href="https://github.com/Omkharade318/Appetito-The_Food_Delivery_App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omkharade318&repo=Appetito-The_Food_Delivery_App&theme=default" />
-</a>
-  <br/>
+  <p align="start">
+    <a href="https://github.com/Omkharade318/Appetito-The_Food_Delivery_App">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omkharade318&repo=Appetito-The_Food_Delivery_App&theme=default" />
+    </a>
+  </p>
 </details>
 
 ## Recent GitHub Activity ✅
@@ -172,3 +173,9 @@ When I'm not working on Android apps, I'm usually diving into competitive progra
 
 <br/>
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+
+<br/>
+<div align="center">
+  <h3>Show some Support 🤝 by giving a Star 🌟 to some of the repositories!</h3>
+  <img src="https://private-user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc2MDk4NzUsIm5iZiI6MTc3NzYwOTU3NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzktZTM3OWEzM2EtYjQyOC00Mzg1LWI0NGYtM2RhMTZlN2JhYzlmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTAxVDA0MjYxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIzYmE0NThiYzE5ZjE1MGM4ZDBmNjJiZWIzMDFmMzNhNDllMjI5YzFhMmQ3ZjFlMTkyMTg2NWM3NjViYzM2ODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.dnqMW-3y4rFY9PupMNQ7invT3S7EUW1Lhvijb7txZHM" alt="Support GIF" />
+</div>
