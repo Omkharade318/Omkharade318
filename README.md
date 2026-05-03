@@ -160,11 +160,11 @@ When I'm not working on Android apps, I'm usually diving into competitive progra
 
 ## Recent GitHub Activity ✅
 <!-- ACTIVITY:START -->
+- [Omkharade318 pushed Appetito-The_Food_Delivery_App](https://github.com/Omkharade318/Appetito-The_Food_Delivery_App/compare/6b5a8b1fbf...8a5d5aa7f5)
+- [Omkharade318 contributed to Omkharade318/Appetito-The_Food_Delivery_App](https://github.com/Omkharade318/Appetito-The_Food_Delivery_App/pull/10)
+- [Omkharade318 contributed to Omkharade318/Appetito-The_Food_Delivery_App](https://github.com/Omkharade318/Appetito-The_Food_Delivery_App/pull/10)
+- [Omkharade318 pushed Appetito-The_Food_Delivery_App](https://github.com/Omkharade318/Appetito-The_Food_Delivery_App/compare/d47f7d2ab5...6678691db6)
 - [Omkharade318 pushed alumni_association](https://github.com/Omkharade318/alumni_association/compare/d1c658189e...1eec3d418e)
-- [Omkharade318 pushed Omkharade318](https://github.com/Omkharade318/Omkharade318/compare/0399afdfa1...af27fa553c)
-- [Omkharade318 deleted](https://github.com/Omkharade318/alumni_association/compare/07ab4a4439...0000000000)
-- [Omkharade318 deleted](https://github.com/Omkharade318/alumni_association/compare/07ab4a4439...0000000000)
-- [Omkharade318 pushed alumni_association](https://github.com/Omkharade318/alumni_association/compare/f5a6686a54...d1c658189e)
 <!-- ACTIVITY:END -->
 
 ## GitHub Profile Trophy 🏆
