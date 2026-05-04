@@ -160,11 +160,11 @@ When I'm not working on Android apps, I'm usually diving into competitive progra
 
 ## Recent GitHub Activity ✅
 <!-- ACTIVITY:START -->
+- [Omkharade318 pushed alumni_association](https://github.com/Omkharade318/alumni_association/compare/4673c91395...26d3cb6dc8)
+- [Omkharade318 pushed alumni_association](https://github.com/Omkharade318/alumni_association/compare/24323d0752...4673c91395)
+- [Omkharade318 pushed alumni_association](https://github.com/Omkharade318/alumni_association/compare/4231e9310e...24323d0752)
+- [Omkharade318 pushed alumni_association](https://github.com/Omkharade318/alumni_association/compare/1eec3d418e...4231e9310e)
 - [Omkharade318 pushed Appetito-The_Food_Delivery_App](https://github.com/Omkharade318/Appetito-The_Food_Delivery_App/compare/6678691db6...f25537f0c6)
-- [Omkharade318 pushed Appetito-The_Food_Delivery_App](https://github.com/Omkharade318/Appetito-The_Food_Delivery_App/compare/6b5a8b1fbf...8a5d5aa7f5)
-- [Omkharade318 contributed to Omkharade318/Appetito-The_Food_Delivery_App](https://github.com/Omkharade318/Appetito-The_Food_Delivery_App/pull/10)
-- [Omkharade318 contributed to Omkharade318/Appetito-The_Food_Delivery_App](https://github.com/Omkharade318/Appetito-The_Food_Delivery_App/pull/10)
-- [Omkharade318 pushed Appetito-The_Food_Delivery_App](https://github.com/Omkharade318/Appetito-The_Food_Delivery_App/compare/d47f7d2ab5...6678691db6)
 <!-- ACTIVITY:END -->
 
 ## GitHub Profile Trophy 🏆
