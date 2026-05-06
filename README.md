@@ -160,11 +160,11 @@ When I'm not working on Android apps, I'm usually diving into competitive progra
 
 ## Recent GitHub Activity ✅
 <!-- ACTIVITY:START -->
-- [Omkharade318 pushed alumni_association](https://github.com/Omkharade318/alumni_association/compare/52ea30d91f...c280469e84)
-- [Omkharade318 pushed alumni_association](https://github.com/Omkharade318/alumni_association/compare/26d3cb6dc8...52ea30d91f)
-- [Omkharade318 pushed alumni_association](https://github.com/Omkharade318/alumni_association/compare/4673c91395...26d3cb6dc8)
-- [Omkharade318 pushed alumni_association](https://github.com/Omkharade318/alumni_association/compare/24323d0752...4673c91395)
-- [Omkharade318 pushed alumni_association](https://github.com/Omkharade318/alumni_association/compare/4231e9310e...24323d0752)
+- [Omkharade318 pushed alumni_connect](https://github.com/Omkharade318/alumni_connect/compare/52ea30d91f...c280469e84)
+- [Omkharade318 pushed alumni_connect](https://github.com/Omkharade318/alumni_connect/compare/26d3cb6dc8...52ea30d91f)
+- [Omkharade318 pushed alumni_connect](https://github.com/Omkharade318/alumni_connect/compare/4673c91395...26d3cb6dc8)
+- [Omkharade318 pushed alumni_connect](https://github.com/Omkharade318/alumni_connect/compare/24323d0752...4673c91395)
+- [Omkharade318 pushed alumni_connect](https://github.com/Omkharade318/alumni_connect/compare/4231e9310e...24323d0752)
 <!-- ACTIVITY:END -->
 
 ## GitHub Profile Trophy 🏆
