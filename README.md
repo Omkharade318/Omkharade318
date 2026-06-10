@@ -161,10 +161,6 @@ When I'm not working on Android apps, I'm usually diving into competitive progra
 ## Recent GitHub Activity ✅
 <!-- ACTIVITY:START -->
 - [Omkharade318 pushed alumni_connect](https://github.com/Omkharade318/alumni_connect/compare/e3207a887e...0148271085)
-- [Omkharade318 pushed Appetito-The_Food_Delivery_App](https://github.com/Omkharade318/Appetito-The_Food_Delivery_App/compare/e3837f8afb...de82a311c6)
-- [Omkharade318 contributed to Omkharade318/Appetito-The_Food_Delivery_App](https://github.com/Omkharade318/Appetito-The_Food_Delivery_App/pull/12)
-- [Omkharade318 contributed to Omkharade318/Appetito-The_Food_Delivery_App](https://github.com/Omkharade318/Appetito-The_Food_Delivery_App/pull/12)
-- [Omkharade318 pushed Appetito-The_Food_Delivery_App](https://github.com/Omkharade318/Appetito-The_Food_Delivery_App/compare/588dede2bb...a93cd7d23b)
 <!-- ACTIVITY:END -->
 
 ## GitHub Profile Trophy 🏆
