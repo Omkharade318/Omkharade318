@@ -160,7 +160,7 @@ When I'm not working on Android apps, I'm usually diving into competitive progra
 
 ## Recent GitHub Activity ✅
 <!-- ACTIVITY:START -->
-- [Omkharade318 pushed alumni_connect](https://github.com/Omkharade318/alumni_connect/compare/e3207a887e...0148271085)
+- [Omkharade318 starred Omkharade318/Finance_Management_App](https://github.com/Omkharade318/Finance_Management_App)
 <!-- ACTIVITY:END -->
 
 ## GitHub Profile Trophy 🏆
